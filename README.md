@@ -1,2 +1,3 @@
 # scala-practices
-스칼라 연습
+
+스칼라 예제들
